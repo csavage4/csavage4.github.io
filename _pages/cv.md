@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Sc.B. in Mathematics and Computer Science, Brown University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2022: Software Engineering Intern
+  * CME Group, Chicago, IL
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Nagesh Reddy
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021-: Teaching Assistant
+  * Brown University
+  * Undergraduate Teaching Assistant for CSCI 0150: Introduction to Object-Oriented Programming and grader for MATH 0520: Linear Algebra
+
+* Fall 2020-Spring 2021: Math+Sciences Tutor
+  * Arden Educational Consulting
+  * Tutored students from middle school to college in Chemistry, Biology, Physics, and Math (through Calc I)
+
+
   
 Skills
 ======
@@ -36,17 +39,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
