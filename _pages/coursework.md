@@ -7,6 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
+Spring 2023
+======
+* CSCI 1670 (+ 1690) - Operating Systems (+ Laboratory)
+* CSCI 2951O - Foundations of Prescriptive Analytics (Graduate)
+* MATH 1140 - Functions of Several Variables II (Manifolds + Differential Forms)
+* MATH 1810B - A Second Course in Linear Algebra
+
+
+Fall 2022
+======
+* APMA 1690 - Computational Probability and Statistics
+* CSCI 1260 - Compilers and Program Analysis
+* CSCI 1570 - Design and Analysis of Algorithms
+* MATH 1130 - Functions of Several Variables I (Topology, Measure Theory, Integration)
+
 Spring 2022
 ======
 * CSCI 0320 - Software Engineering
@@ -25,7 +40,7 @@ Summer 2021
 ======
 * APMA 0350 - Ordinary Differential Equations
 * CSCI 0160 - Algorithms and Data Structures
-* HIST 1968M - The Worls of Crusading
+* HIST 1968M - The Worlds of Crusading
 * MATH 1530 - Abstract Algebra
 
 Spring 2021
@@ -44,16 +59,20 @@ Fall 2020
 
 Work experience
 ======
+* Summer 2023 (future): Quantitative Trading Intern
+  * Virtu Financial, Austin, TX
+
+* Fall 2021-: Teaching Assistant
+  * Brown University
+  * CS: UTA for CSCI 0150: Object-Oriented Programming (Fall, 2021) and CSCi 1952Q: Mathematical Aspects of Machine Learning (Spring 2023)
+  * Math: Grader for MATH 0520: Linear Algebra (Spring 2022)
+
 * Summer 2022: Software Engineering Intern
   * CME Group, Chicago, IL
   * Duties included: Tagging issues
   * Supervisor: Nagesh Reddy
 
-* Fall 2021-: Teaching Assistant
-  * Brown University
-  * Undergraduate Teaching Assistant for CSCI 0150: Introduction to Object-Oriented Programming and grader for MATH 0520: Linear Algebra
-
-* Fall 2020-Spring 2021: Math+Sciences Tutor
+* Fall 2020-Spring 2021: Math + Sciences Tutor
   * Arden Educational Consulting
   * Tutored students from middle school to college in Chemistry, Biology, Physics, and Math (through Calc I)
 
@@ -61,12 +80,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages (relative proficiency x/5)
+  * Java (5)
+  * Python (4)
+  * OCaml (3.5)
+  * C/C++ (4)
+  * HTML/CSS (2)
+  * JS/TS/React (2.5)
 
 
   
@@ -78,5 +98,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
 
